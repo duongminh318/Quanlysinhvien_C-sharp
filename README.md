@@ -6,31 +6,33 @@ Hệ thống quản lý điểm sinh viên này sẽ giúp công tác quản lý
 
 Here is my C# source code for WINDOWS FORM APP. With my code: 
 
+		-- các chức năng;
+				- thêm, xoa, sửa (quản lý) thông tin Sinh Viên 
+				- Quản lý, tra cứu diểm số Sinh Viên
+				- quản lý môn học
+				- quản lý tài khoản đăng nhập
 
 ##
 <p align="center">
-  <img src="pic/sodophanrachucnang.png" width=500><br/>
+  <img src="pic/sodophanrachucnang.png" width=600><br/>
   <i>Sơ đồ phân rã chức năng</i>
 </p>
 
 <p align="center">
-  <img src="pic/diagram.png" width=500><br/>
+  <img src="pic/diagram.png" width=600><br/>
   <i> Diagram</i>
 </p>
 
 ## Giao Diện Người Dùng
 output:
 
-## Giao Diện Người Dùng
-
-
 <p align="center">
-  <img src="pic/login.png" width=500><br/>
+  <img src="pic/login.png" width=600><br/>
   <i>Login</i>
 </p>
 
 <p align="center">
-  <img src="pic/home.png" width=500><br/>
+  <img src="pic/home.png" width=600><br/>
   <i>Home</i>
 </p>
 
@@ -38,33 +40,29 @@ output:
 
 
 <p align="center">
-  <img src="pic/thongtinsinhvien.png" width=500><br/>
+  <img src="pic/thongtinsinhvien.png" width=600><br/>
   <i>Thông tin sinh viên</i>
 </p>
 
 <p align="center">
-  <img src="pic/quanlydiem.png" width=500><br/>
+  <img src="pic/quanlydiem.png" width=600><br/>
   <i>Quản lý điểm sinh viên</i>
 </p>
 
 <p align="center">
-  <img src="pic/tracuu.png" width=500><br/>
+  <img src="pic/tracuu.png" width=600><br/>
   <i>Tra cứu điểm</i>
 </p>
 
 <p align="center">
-  <img src="pic/quanlymonhoc.png" width=500><br/>
+  <img src="pic/quanlymonhoc.png" width=600><br/>
   <i>Quản lý thông tin môn học</i>
 </p>
 
 <p align="center">
-  <img src="pic/quanlynguoidung" width=500><br/>
+  <img src="pic/quanlynguoidung.png" width=600><br/>
   <i>Quản lý tài khoản người dùng</i>
 </p>
-
-
-
-
 
 ## Technology used
 * **C# **
