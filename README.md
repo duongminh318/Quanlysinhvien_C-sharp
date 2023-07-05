@@ -50,7 +50,7 @@ output:
 </p>
 
 <p align="center">
-  <img src="pic/tracuu.png" width=600><br/>
+  <img src="pic/tracuudiem.png" width=600><br/>
   <i>Tra cứu điểm</i>
 </p>
 
